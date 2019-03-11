@@ -1,0 +1,12 @@
+/Users/yale/Documents/Algorithm/leetcode/add_two_numbers/program/bin/Debug/netcoreapp3.0/program
+/Users/yale/Documents/Algorithm/leetcode/add_two_numbers/program/bin/Debug/netcoreapp3.0/program.deps.json
+/Users/yale/Documents/Algorithm/leetcode/add_two_numbers/program/bin/Debug/netcoreapp3.0/program.runtimeconfig.json
+/Users/yale/Documents/Algorithm/leetcode/add_two_numbers/program/bin/Debug/netcoreapp3.0/program.runtimeconfig.dev.json
+/Users/yale/Documents/Algorithm/leetcode/add_two_numbers/program/bin/Debug/netcoreapp3.0/program.dll
+/Users/yale/Documents/Algorithm/leetcode/add_two_numbers/program/bin/Debug/netcoreapp3.0/program.pdb
+/Users/yale/Documents/Algorithm/leetcode/add_two_numbers/program/obj/Debug/netcoreapp3.0/program.csprojAssemblyReference.cache
+/Users/yale/Documents/Algorithm/leetcode/add_two_numbers/program/obj/Debug/netcoreapp3.0/program.csproj.CoreCompileInputs.cache
+/Users/yale/Documents/Algorithm/leetcode/add_two_numbers/program/obj/Debug/netcoreapp3.0/program.AssemblyInfoInputs.cache
+/Users/yale/Documents/Algorithm/leetcode/add_two_numbers/program/obj/Debug/netcoreapp3.0/program.AssemblyInfo.cs
+/Users/yale/Documents/Algorithm/leetcode/add_two_numbers/program/obj/Debug/netcoreapp3.0/program.dll
+/Users/yale/Documents/Algorithm/leetcode/add_two_numbers/program/obj/Debug/netcoreapp3.0/program.pdb
