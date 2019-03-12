@@ -1,14 +1,6 @@
 {
-  "ProjectFilePath": "/Users/yale/Documents/Algorithm/leetcode/add_two_numbers/program/program.csproj",
+  "ProjectFilePath": "/Users/yale/Documents/Algorithm/leet/add_two_numbers/program/program.csproj",
   "TargetFramework": "netcoreapp3.0",
   "TagHelpers": [],
-  "Configuration": {
-    "ConfigurationName": "UnsupportedRazor",
-    "LanguageVersion": "1.0",
-    "Extensions": [
-      {
-        "ExtensionName": "UnsupportedRazorExtension"
-      }
-    ]
-  }
+  "Configuration": null
 }
