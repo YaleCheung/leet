@@ -1,0 +1,11 @@
+/Users/yale/Documents/Algorithm/leet/Convert/obj/Debug/netcoreapp2.2/Convert.csprojAssemblyReference.cache
+/Users/yale/Documents/Algorithm/leet/Convert/obj/Debug/netcoreapp2.2/Convert.csproj.CoreCompileInputs.cache
+/Users/yale/Documents/Algorithm/leet/Convert/obj/Debug/netcoreapp2.2/Convert.AssemblyInfoInputs.cache
+/Users/yale/Documents/Algorithm/leet/Convert/obj/Debug/netcoreapp2.2/Convert.AssemblyInfo.cs
+/Users/yale/Documents/Algorithm/leet/Convert/bin/Debug/netcoreapp2.2/Convert.deps.json
+/Users/yale/Documents/Algorithm/leet/Convert/bin/Debug/netcoreapp2.2/Convert.runtimeconfig.json
+/Users/yale/Documents/Algorithm/leet/Convert/bin/Debug/netcoreapp2.2/Convert.runtimeconfig.dev.json
+/Users/yale/Documents/Algorithm/leet/Convert/bin/Debug/netcoreapp2.2/Convert.dll
+/Users/yale/Documents/Algorithm/leet/Convert/bin/Debug/netcoreapp2.2/Convert.pdb
+/Users/yale/Documents/Algorithm/leet/Convert/obj/Debug/netcoreapp2.2/Convert.dll
+/Users/yale/Documents/Algorithm/leet/Convert/obj/Debug/netcoreapp2.2/Convert.pdb
