@@ -1,0 +1,56 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/yale/Dev/Practice/Leetcode/max_area/max_area.csproj": {}
+  },
+  "projects": {
+    "/home/yale/Dev/Practice/Leetcode/max_area/max_area.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/yale/Dev/Practice/Leetcode/max_area/max_area.csproj",
+        "projectName": "max_area",
+        "projectPath": "/home/yale/Dev/Practice/Leetcode/max_area/max_area.csproj",
+        "packagesPath": "/home/yale/.nuget/packages/",
+        "outputPath": "/home/yale/Dev/Practice/Leetcode/max_area/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/yale/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": [
+            "Microsoft.NETCore.App"
+          ]
+        }
+      }
+    }
+  }
+}

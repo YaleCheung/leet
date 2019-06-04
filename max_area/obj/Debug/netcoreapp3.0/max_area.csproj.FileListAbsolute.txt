@@ -1,0 +1,12 @@
+/home/yale/Dev/Practice/Leetcode/max_area/bin/Debug/netcoreapp3.0/max_area
+/home/yale/Dev/Practice/Leetcode/max_area/bin/Debug/netcoreapp3.0/max_area.deps.json
+/home/yale/Dev/Practice/Leetcode/max_area/bin/Debug/netcoreapp3.0/max_area.runtimeconfig.json
+/home/yale/Dev/Practice/Leetcode/max_area/bin/Debug/netcoreapp3.0/max_area.runtimeconfig.dev.json
+/home/yale/Dev/Practice/Leetcode/max_area/bin/Debug/netcoreapp3.0/max_area.dll
+/home/yale/Dev/Practice/Leetcode/max_area/bin/Debug/netcoreapp3.0/max_area.pdb
+/home/yale/Dev/Practice/Leetcode/max_area/obj/Debug/netcoreapp3.0/max_area.csprojAssemblyReference.cache
+/home/yale/Dev/Practice/Leetcode/max_area/obj/Debug/netcoreapp3.0/max_area.csproj.CoreCompileInputs.cache
+/home/yale/Dev/Practice/Leetcode/max_area/obj/Debug/netcoreapp3.0/max_area.AssemblyInfoInputs.cache
+/home/yale/Dev/Practice/Leetcode/max_area/obj/Debug/netcoreapp3.0/max_area.AssemblyInfo.cs
+/home/yale/Dev/Practice/Leetcode/max_area/obj/Debug/netcoreapp3.0/max_area.dll
+/home/yale/Dev/Practice/Leetcode/max_area/obj/Debug/netcoreapp3.0/max_area.pdb
