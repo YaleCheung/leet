@@ -1,0 +1,12 @@
+/home/yale/Dev/Practice/Leetcode/three_sum/bin/Debug/netcoreapp3.0/three_sum
+/home/yale/Dev/Practice/Leetcode/three_sum/bin/Debug/netcoreapp3.0/three_sum.deps.json
+/home/yale/Dev/Practice/Leetcode/three_sum/bin/Debug/netcoreapp3.0/three_sum.runtimeconfig.json
+/home/yale/Dev/Practice/Leetcode/three_sum/bin/Debug/netcoreapp3.0/three_sum.runtimeconfig.dev.json
+/home/yale/Dev/Practice/Leetcode/three_sum/bin/Debug/netcoreapp3.0/three_sum.dll
+/home/yale/Dev/Practice/Leetcode/three_sum/bin/Debug/netcoreapp3.0/three_sum.pdb
+/home/yale/Dev/Practice/Leetcode/three_sum/obj/Debug/netcoreapp3.0/three_sum.csprojAssemblyReference.cache
+/home/yale/Dev/Practice/Leetcode/three_sum/obj/Debug/netcoreapp3.0/three_sum.csproj.CoreCompileInputs.cache
+/home/yale/Dev/Practice/Leetcode/three_sum/obj/Debug/netcoreapp3.0/three_sum.AssemblyInfoInputs.cache
+/home/yale/Dev/Practice/Leetcode/three_sum/obj/Debug/netcoreapp3.0/three_sum.AssemblyInfo.cs
+/home/yale/Dev/Practice/Leetcode/three_sum/obj/Debug/netcoreapp3.0/three_sum.dll
+/home/yale/Dev/Practice/Leetcode/three_sum/obj/Debug/netcoreapp3.0/three_sum.pdb
