@@ -8,8 +8,9 @@
             "name": ".NET Core Launch (console)",
             "type": "coreclr",
             "request": "launch",
+            "preLaunchTask": "build",
             "program": "${workspaceFolder}/bin/Debug/netcoreapp3.0/letterCombinations.dll",
-            "args": ["23"],
+            "args": ["23],
             "cwd": "${workspaceFolder}",
             "console": "internalConsole",
             "stopAtEntry": false
