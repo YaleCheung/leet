@@ -1,0 +1,13 @@
+D:\Dev\leet\combination_sum\obj\Debug\netcoreapp3.1\combination_sum.csprojAssemblyReference.cache
+D:\Dev\leet\combination_sum\obj\Debug\netcoreapp3.1\combination_sum.csproj.CoreCompileInputs.cache
+D:\Dev\leet\combination_sum\obj\Debug\netcoreapp3.1\combination_sum.AssemblyInfoInputs.cache
+D:\Dev\leet\combination_sum\obj\Debug\netcoreapp3.1\combination_sum.AssemblyInfo.cs
+D:\Dev\leet\combination_sum\bin\Debug\netcoreapp3.1\combination_sum.exe
+D:\Dev\leet\combination_sum\bin\Debug\netcoreapp3.1\combination_sum.deps.json
+D:\Dev\leet\combination_sum\bin\Debug\netcoreapp3.1\combination_sum.runtimeconfig.json
+D:\Dev\leet\combination_sum\bin\Debug\netcoreapp3.1\combination_sum.runtimeconfig.dev.json
+D:\Dev\leet\combination_sum\bin\Debug\netcoreapp3.1\combination_sum.dll
+D:\Dev\leet\combination_sum\bin\Debug\netcoreapp3.1\combination_sum.pdb
+D:\Dev\leet\combination_sum\obj\Debug\netcoreapp3.1\combination_sum.dll
+D:\Dev\leet\combination_sum\obj\Debug\netcoreapp3.1\combination_sum.pdb
+D:\Dev\leet\combination_sum\obj\Debug\netcoreapp3.1\combination_sum.genruntimeconfig.cache
