@@ -56,6 +56,7 @@ Main	.\longest_valid_parentheses\Program.cs	/^        static void Main(string[] 
 Main	.\max_area\Program.cs	/^    public static void Main(string[] args) {$/;"	m	class:Program
 Main	.\next_permutation\Program.cs	/^        static void Main(string[] args)$/;"	m	class:next_permutation.Program	file:
 Main	.\palindrome_number\Program.cs	/^        static void Main(string[] args)$/;"	m	class:palindrome_number.Solution	file:
+Main	.\permute\Program.cs	/^        static void Main(string[] args)$/;"	m	class:permute.Program	file:
 Main	.\removeNthFromEnd\Program.cs	/^        static void Main(string[] args)$/;"	m	class:removeNthFromEnd.Program	file:
 Main	.\remove_nth_from_end\Program.cs	/^        static void Main(string[] args)$/;"	m	class:removeNthFromEnd.Program	file:
 Main	.\reverse_int\Program.cs	/^        static void Main(string[] args)$/;"	m	class:reverse_int.Solution	file:
@@ -83,6 +84,7 @@ Program	.\letter_combinations\Program.cs	/^    public class Program$/;"	c	namesp
 Program	.\longest_valid_parentheses\Program.cs	/^    class Program$/;"	c	namespace:longest_valid_parentheses
 Program	.\max_area\Program.cs	/^public class Program {$/;"	c
 Program	.\next_permutation\Program.cs	/^    class Program$/;"	c	namespace:next_permutation
+Program	.\permute\Program.cs	/^    class Program$/;"	c	namespace:permute
 Program	.\removeNthFromEnd\Program.cs	/^    public class Program$/;"	c	namespace:removeNthFromEnd
 Program	.\remove_nth_from_end\Program.cs	/^    public class Program$/;"	c	namespace:removeNthFromEnd
 Program	.\search\Program.cs	/^    class Program$/;"	c	namespace:search
@@ -141,6 +143,7 @@ next	.\swapPairs\Program.cs	/^        public ListNode next;$/;"	f	class:swapPair
 next_permutation	.\next_permutation\Program.cs	/^namespace next_permutation$/;"	n
 palindromeLength	.\longest_palindrome\Program.cs	/^        int palindromeLength(string s, int i, int j) {$/;"	m	class:longest_palindrome.Solution	file:
 palindrome_number	.\palindrome_number\Program.cs	/^namespace palindrome_number$/;"	n
+permute	.\permute\Program.cs	/^namespace permute$/;"	n
 removeNthFromEnd	.\removeNthFromEnd\Program.cs	/^namespace removeNthFromEnd$/;"	n
 removeNthFromEnd	.\remove_nth_from_end\Program.cs	/^namespace removeNthFromEnd$/;"	n
 reverse_int	.\reverse_int\Program.cs	/^namespace reverse_int$/;"	n
