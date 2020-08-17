@@ -11,11 +11,12 @@ namespace Permute
             Swap(nums, cur_pos, post_pos);
             tmp.Add(nums[cur_pos]);
             if (tmp.Count == nums.Length) {
-                permute_lst.Add(tmp);
+                permute_lst.Add(tmp.ToArray());
+                tmp.RemoveAt(tmp.Count - 1);
                 return;
             }
             for(int j = cur_pos + 1; j < nums.Length; ++ j)
-                Permute(nums, permute_lst, cur_pos + 1, j, new List<int>(tmp.ToArray()));
+                Permute(nums, permute_lst, cur_pos + 1, j, tmp);
             tmp.RemoveAt(tmp.Count - 1);
             Swap(nums, cur_pos, post_pos);
 
@@ -27,8 +28,9 @@ namespace Permute
         }
         public IList<IList<int>> Permute(int[] nums) {
             IList<IList<int>> ret = new List<IList<int>>();
+            List<int> tmp = new List<int>();
             for (int i = 0; i < nums.Length; ++ i) {
-                Permute(nums, ret, 0, i, new List<int>());
+                Permute(nums, ret, 0, i, tmp);
             }
             return ret;
         }
