@@ -6,17 +6,19 @@ namespace Permute
 
     class Solution
     {
-        public void Permute(int[] nums, IList<IList<int>> permute_lst, int cur_pos, List<int> tmp) {
-            for(int j = cur_pos; j < nums.Length; ++ j) {
-                Swap(nums, cur_pos, j);
-                tmp.Add(nums[j]);
-                if (tmp.Count == nums.Length) {
-                    permute_lst.Add(tmp);
-                    return;
-                }
-                Permute(nums, permute_lst, j + 1, new List<int>(tmp.ToArray()));
-                Swap(nums, cur_pos, j);
+        public void Permute(int[] nums, IList<IList<int>> permute_lst, int cur_pos, int post_pos, List<int> tmp) {
+
+            Swap(nums, cur_pos, post_pos);
+            tmp.Add(nums[cur_pos]);
+            if (tmp.Count == nums.Length) {
+                permute_lst.Add(tmp);
+                return;
             }
+            for(int j = cur_pos + 1; j < nums.Length; ++ j)
+                Permute(nums, permute_lst, cur_pos + 1, j, new List<int>(tmp.ToArray()));
+            tmp.RemoveAt(tmp.Count - 1);
+            Swap(nums, cur_pos, post_pos);
+
         }
         public void Swap(int[] nums, int i, int j) {
             int tmp = nums[i];
@@ -26,7 +28,7 @@ namespace Permute
         public IList<IList<int>> Permute(int[] nums) {
             IList<IList<int>> ret = new List<IList<int>>();
             for (int i = 0; i < nums.Length; ++ i) {
-                Permute(nums, ret, 0, new List<int>());
+                Permute(nums, ret, 0, i, new List<int>());
             }
             return ret;
         }
